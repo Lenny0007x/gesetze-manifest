@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "laws": [
+    { "lawId": "StGB", "title": "Strafgesetzbuch", "pageUrl": "https://www.gesetze-im-internet.de/stgb/" },
+    { "lawId": "AO",   "title": "Abgabenordnung", "pageUrl": "https://www.gesetze-im-internet.de/ao_1977/" },
+    { "lawId": "UStG", "title": "Umsatzsteuergesetz", "pageUrl": "https://www.gesetze-im-internet.de/ustg_1980/" },
+    { "lawId": "EStG", "title": "Einkommensteuergesetz", "pageUrl": "https://www.gesetze-im-internet.de/estg/" },
+    { "lawId": "StPO", "title": "Strafprozessordnung", "pageUrl": "https://www.gesetze-im-internet.de/stpo/" },
+    { "lawId": "StVO", "title": "Straßenverkehrs-Ordnung", "pageUrl": "https://www.gesetze-im-internet.de/stvo_2013/" }
+  ],
+  "discovery": { "strategy": "findLinkWithText", "text": "XML" },
+  "updatePolicy": "etag-or-last-modified",
+  "source": "Quelle: BMJ/juris – gesetze-im-internet.de"
+}
