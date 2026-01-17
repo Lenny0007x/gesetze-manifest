@@ -7,6 +7,7 @@
     { "lawId": "EStG", "title": "Einkommensteuergesetz", "pageUrl": "https://www.gesetze-im-internet.de/estg/" },
     { "lawId": "StPO", "title": "Strafprozessordnung", "pageUrl": "https://www.gesetze-im-internet.de/stpo/" },
     { "lawId": "StVO", "title": "Straßenverkehrs-Ordnung", "pageUrl": "https://www.gesetze-im-internet.de/stvo_2013/" }
+    { "lawId": "BGB", "title": "Bürgerliches Gesetzbuch", "pageUrl": "https://www.gesetze-im-internet.de/bgb/" }
   ],
   "discovery": { "strategy": "findLinkWithText", "text": "XML" },
   "updatePolicy": "etag-or-last-modified",
