@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "laws": [
     { "lawId": "GG", "title": "Grundgesetz", "pageUrl": "https://www.gesetze-im-internet.de/gg/" },
     { "lawId": "VwVfG", "title": "Verwaltungsverfahrensgesetz", "pageUrl": "https://www.gesetze-im-internet.de/vwvfg/" },
