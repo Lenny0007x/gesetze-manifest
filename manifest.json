@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "laws": [
     { "lawId": "GG", "title": "Grundgesetz", "pageUrl": "https://www.gesetze-im-internet.de/gg/" },
     { "lawId": "VwVfG", "title": "Verwaltungsverfahrensgesetz", "pageUrl": "https://www.gesetze-im-internet.de/vwvfg/" },
@@ -42,7 +42,13 @@
     { "lawId": "ProdSG", "title": "Produktsicherheitsgesetz", "pageUrl": "https://www.gesetze-im-internet.de/prodsg/" },
     { "lawId": "EEG", "title": "Erneuerbare-Energien-Gesetz", "pageUrl": "https://www.gesetze-im-internet.de/eeg_2023/" },
     { "lawId": "UmwStG", "title": "Umwandlungssteuergesetz", "pageUrl": "https://www.gesetze-im-internet.de/umwstg/" },
-    { "lawId": "GBO", "title": "Grundbuchordnung", "pageUrl": "https://www.gesetze-im-internet.de/gbo/" }
+    { "lawId": "GBO", "title": "Grundbuchordnung", "pageUrl": "https://www.gesetze-im-internet.de/gbo/" },
+    { "lawId": "StGB", "title": "Strafgesetzbuch", "pageUrl": "https://www.gesetze-im-internet.de/stgb/" },
+    { "lawId": "AO",   "title": "Abgabenordnung", "pageUrl": "https://www.gesetze-im-internet.de/ao_1977/" },
+    { "lawId": "UStG", "title": "Umsatzsteuergesetz", "pageUrl": "https://www.gesetze-im-internet.de/ustg_1980/" },
+    { "lawId": "EStG", "title": "Einkommensteuergesetz", "pageUrl": "https://www.gesetze-im-internet.de/estg/" },
+    { "lawId": "StPO", "title": "Strafprozessordnung", "pageUrl": "https://www.gesetze-im-internet.de/stpo/" },
+    { "lawId": "StVO", "title": "Straßenverkehrs-Ordnung", "pageUrl": "https://www.gesetze-im-internet.de/stvo_2013/" }
   ],
   "discovery": { "strategy": "findLinkWithText", "text": "XML" },
   "updatePolicy": "etag-or-last-modified",
