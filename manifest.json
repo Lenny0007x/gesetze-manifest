@@ -68,6 +68,8 @@
 { "lawId": "PfandBG", "title": "Pfandbriefgesetz", "pageUrl": "https://www.gesetze-im-internet.de/pfandbg/" },
 { "lawId": "WohnGmbHG", "title": "Wohnungsgesellschaftengesetz", "pageUrl": "https://www.gesetze-im-internet.de/wohngmbhg/" },
 { "lawId": "EEG-2021", "title": "Erneuerbare-Energien-Gesetz 2021", "pageUrl": "https://www.gesetze-im-internet.de/eeg_2021/" },
+{ "lawId": "NotSanG", "title": "Notfallsanitätergesetz", "pageUrl": "https://www.gesetze-im-internet.de/notsang/BJNR134810013.html" },
+{ "lawId": "HilprG", "title": "Heilpraktikergesetz", "pageUrl": "https://www.gesetze-im-internet.de/heilprg/" },
 { "lawId": "EnEG", "title": "Energieeinsparungsgesetz", "pageUrl": "https://www.gesetze-im-internet.de/eneg/" }
   ],
   "discovery": { "strategy": "findLinkWithText", "text": "XML" },
